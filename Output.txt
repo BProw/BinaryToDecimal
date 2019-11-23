@@ -1,0 +1,41 @@
+Brian LeProwse
+Binary Numbers
+
+Entered string: 00000000
+Status: valid
+Decimal value:  0
+
+Entered string: 11111111
+Status: valid
+Decimal value:  255
+
+Entered string: 00000001
+Status: valid
+Decimal value:  1
+
+Entered string: 00000100
+Status: valid
+Decimal value:  4
+
+Entered string: 11000101
+Status: valid
+Decimal value:  197
+
+Entered string: 10000000
+Status: valid
+Decimal value:  128
+
+Entered string: 1010
+Status: invalid
+
+Entered string: 123
+Status: invalid
+
+Entered string: 98765432
+Status: invalid
+
+Entered string: 110011001
+Status: invalid
+
+Entered string: 000999333
+Status: invalid
