@@ -17,12 +17,12 @@ public class BinaryToDecimal {
 	// strings for user and file input, program description, and output
 	private String num, fileName, outFile, description, validOutput, invalidOutput;
 	private String[] outputArray, outputFileArray;	// output messages stored in array	
-	private Scanner in;								// console and file input
-	private boolean confirm;						// confirm correct input file name
-	private File inputFile;							// input file of strings
-	private FileWriter write;						// write to file
-	private PrintWriter writeFile;					// output to file					
-	private ArrayList<String> stringsInFile;		// add strings in file here
+	private Scanner in;				// console and file input
+	private boolean confirm;			// confirm correct input file name
+	private File inputFile;				// input file of strings
+	private FileWriter write;			// write to file
+	private PrintWriter writeFile;			// output to file					
+	private ArrayList<String> stringsInFile;	// add strings in file here
 
 /**
  * default constructor
